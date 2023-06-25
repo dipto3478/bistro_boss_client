@@ -10,7 +10,7 @@ const menuItems = (
       <Link to="/menu">Our Menu</Link>
     </li>
     <li className="-m-3 flex items-center rounded-md p-3 text-sm font-semibold hover:bg-gray-50">
-      <Link to="/">Home</Link>
+      <Link to="/order">Order Food</Link>
     </li>
     <li className="-m-3 flex items-center rounded-md p-3 text-sm font-semibold hover:bg-gray-50">
       <Link to="/">Home</Link>
